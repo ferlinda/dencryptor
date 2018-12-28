@@ -1,6 +1,6 @@
 
 <div align="center"> 
-![den7](/dencrpyt/logo.png) 
+<img src="https://github.com/ferlinda/dencryptor/blob/master/dencrpyt/logo.png" alt="LOGO">
 </div>
 
 # Dencryptor
