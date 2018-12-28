@@ -5,20 +5,20 @@ Personal data is used to make very important decisions in our lives. Personal da
 Dencryptor is a personal file protection made in C programming language. We provide a safe way to send file or message over network by making those file and message encrypted before going online.
 
 ## User Hierarchy
-![Hierarchy](/dencrypt/den1.png)
+![Hierarchy](/dencrpyt/den1.png)
 
 ## Log In Feature
-![login](/dencrypt/den2.png)
+![login](/dencrpyt/den2.png)
 
 ## Our Program At A Glance
-![Flowchart](/dencrypt/den4.png)
+![Flowchart](/dencrpyt/den4.png)
 
 ## Encryption
-![den5](/dencrypt/den5.png)
-![den6](/dencrypt/den6.png)
+![den5](/dencrpyt/den5.png)
+![den6](/dencrpyt/den6.png)
 
 ## File Dencryption
-![den7](/dencrypt/den7.png)
+![den7](/dencrpyt/den7.png)
 
 
 
