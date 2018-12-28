@@ -1,6 +1,6 @@
 
 <div align="center"> 
-<img src="https://github.com/ferlinda/dencryptor/blob/master/dencrpyt/logo.png" alt="LOGO">
+<img src="https://github.com/ferlinda/dencryptor/blob/master/dencrpyt/logo.png">
 </div>
 
 # Dencryptor
