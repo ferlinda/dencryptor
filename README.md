@@ -1,9 +1,6 @@
-
-<div align="center"> 
-<img src="https://github.com/ferlinda/dencryptor/blob/master/dencrpyt/logo.png">
-</div>
-
 # Dencryptor
+
+![login](/dencrpyt/logo.png)
 
 Personal data is used to make very important decisions in our lives. Personal data can be used to affect our reputations; and it can be used to influence our decisions and shape our behavior. It can be used as a tool to exercise control over us. And in the wrong hands, personal data can be used to cause us great harm. - Teachprivacy.com
 
